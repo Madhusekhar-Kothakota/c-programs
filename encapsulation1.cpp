@@ -21,29 +21,3 @@ int main()
     cout << "Employee Salary: " << emp.getSalary() << endl;
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-int main()
-{
-
-}
